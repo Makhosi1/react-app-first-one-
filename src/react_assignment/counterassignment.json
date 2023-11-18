@@ -1,0 +1,9 @@
+{
+    "userInfo": 
+        {
+        "id": 1,    
+        "name": "Sarah",
+        "books": ["Half Of A Yellow Sun","Black Leopard", "Born a Crime", "Americanah", "Ghana Must Go"]
+    }
+    
+}
